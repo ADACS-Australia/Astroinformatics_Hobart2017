@@ -3,7 +3,8 @@
 The lesson material here is adapted from the [data carpentry python for ecologists lessons](http://www.datacarpentry.org/python-ecology-lesson/)
 and collated into an ipython notebook. 
 The notebook will be filled in by the instructor during the lesson.
-Students are encouraged to copy this repo and save their own final version with all the material added during the lesson.
+Students are encouraged to copy this repo and save their own final version with all the code added during the lesson included.
+
 
 ## Content
 
