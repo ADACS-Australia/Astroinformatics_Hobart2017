@@ -9,9 +9,9 @@ Students are encouraged to copy this repo and save their own final version with 
 ## Content
 
 1. Short intro to python syntax and data types
-2. Working with pandas data frames in python
+2. Working with pandas DataFrames in python
     1. starting with data
-    2. Indexing, slicing and subsetting data frames
+    2. indexing, slicing and subsetting data frames
     3. merging data
 3. Data analysis automation
     1. loops
