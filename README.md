@@ -19,3 +19,7 @@ https://beta.etherpad.org/p/ANITA_Hobart2017
 3. Data analysis automation
     1. loops
     2. writing functions
+4. Astronomy examples with AstroPy
+    1. Working with FITS files and WCS
+    2. Using Coorindates
+    3. Using 
