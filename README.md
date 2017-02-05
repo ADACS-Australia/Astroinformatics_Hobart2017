@@ -5,6 +5,9 @@ and collated into an ipython notebook.
 The notebook will be filled in by the instructor during the lesson.
 Students are encouraged to copy this repo and save their own final version with all the code added during the lesson included.
 
+We'll be using etherpad to share challenge solutions:
+https://beta.etherpad.org/p/ANITA_Hobart2017
+
 
 ## Content
 
