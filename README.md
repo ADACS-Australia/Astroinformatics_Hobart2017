@@ -8,6 +8,9 @@ Students are encouraged to copy this repo and save their own final version with 
 We'll be using etherpad to share challenge solutions:
 https://beta.etherpad.org/p/ANITA_Hobart2017
 
+A notebook with answers has been added to the scripts folder.
+
+You can find a pandas cheat sheet [here](https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.47HfGHA).
 
 ## Content
 
@@ -22,4 +25,4 @@ https://beta.etherpad.org/p/ANITA_Hobart2017
 4. Astronomy examples with AstroPy
     1. Working with FITS files and WCS
     2. Using Coorindates
-    3. Using 
+ 
